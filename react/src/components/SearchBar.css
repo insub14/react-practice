@@ -1,0 +1,25 @@
+.search-wrapper {
+  padding: 1rem;
+  border-bottom: 1px solid #9775fa;
+}
+
+.search-bar {
+  display: flex;
+}
+
+.search-bar input {
+  flex:1 1;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #9775fa;
+}
+
+.create-button {
+  padding: 0.5rem 2rem;
+  margin-left: 2rem;
+  background-color: #9775fa;
+  border-radius: 3px;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+}

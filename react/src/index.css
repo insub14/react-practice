@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  font-family:sans-serif;
+  padding: 0;
+  background: #f9f9f9;
+}
+
+main {
+  background-color: white;
+  width: 512px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); 
+  margin: 0 auto; 
+  margin-top: 4rem;
+}
+/* 
+main>header {
+  background-color: #9775fa;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  color:white;
+}
+
+.search-wrapper {
+  padding: 1rem;
+  border-bottom: 1px solid #9775fa;
+}
+
+.search-bar {
+  display: flex;
+}
+
+.search-bar input {
+  flex:1 1;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #9775fa;
+}
+
+.create-button {
+  padding: 0.5rem 2rem;
+  margin-left: 2rem;
+  background-color: #9775fa;
+  border-radius: 3px;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.contacts-wrapper {
+  min-height: 5rem;
+}
+
+.contact {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.2s;
+  -webkit-user-select: none;
+  user-select: none;
+}
+.contact:hover {
+  background-color: #9775fa;
+  color: white;
+}
+
+.name {
+  flex: 1 1;
+  padding: 1rem 2rem;
+}
+
+.detail-wrapper {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+  border: 1px solid #9775fa;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);  
+  background-color: white;
+  width: 400px;
+}
+
+.detail {
+  padding:0.5rem 2rem;
+}
+
+.contant {
+  padding: 0.5rem;
+  border-bottom:1px solid #9775fa;
+}
+
+.buttons {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  display:flex;
+  align-content: center;
+  justify-content: space-between;
+}
+
+
+.detail-button {
+  padding: 0.5rem 1rem;
+  margin:0 0.5rem;
+  background-color: #9775fa;
+  border-radius: 3px;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+}
+ */

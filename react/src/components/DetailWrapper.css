@@ -1,0 +1,47 @@
+.detail-wrapper {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+  border: 1px solid #9775fa;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); /* 그림자 */ 
+  background-color: white;
+  width: 400px;
+}
+
+.detail {
+  padding:0.5rem 2rem;
+}
+
+.contant {
+  padding: 0.5rem;
+  border-bottom:1px solid #9775fa;
+}
+
+.buttons {
+  padding:0.5rem 2rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  display:flex;
+  align-content: center;
+  justify-content: flex-end;
+}
+
+
+.detail-button {
+  padding: 0.5rem 1rem;
+  margin:0 0.5rem;
+  background-color: #9775fa;
+  border-radius: 3px;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.contant input {
+  flex:1 1;
+  outline: none;
+  border: none;
+  width: 100%
+}
